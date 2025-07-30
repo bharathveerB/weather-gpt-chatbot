@@ -63,18 +63,10 @@ The app will open in your default web browser at `http://localhost:8501`
 
 ## Deployment
 
-This app can be deployed on various platforms:
-
 ### Streamlit Cloud
 1. Push your code to GitHub
 2. Connect your GitHub repository to Streamlit Cloud
 3. Deploy with one click
-
-### Other Platforms
-- Heroku
-- Railway
-- Render
-- Any platform that supports Python and Streamlit
 
 ## Technical Details
 
